@@ -1,10 +1,10 @@
 {
-  "version": "1.12.24",
+  "version": "1.12.30",
   "channel": "stable",
   "platform": "windows-x64",
   "installer": true,
-  "download_url": "https://github.com/typchris/QGuard-Downloads/releases/download/windows-v1.12.24/QGuard-Windows-1.12.24-Setup.exe",
-  "sha256": "4d5b1a0fd61590d38f9a9e3aaa11a9c7a7d8aa835162f4cda49ec36bc1454820",
-  "size": 126674855,
-  "notes": "Clearer windows, app-use charts, calendar and time pickers, updated logo and startup registration. Install the complete Windows package."
+  "download_url": "https://github.com/typchris/QGuard-Downloads/releases/download/windows-v1.12.30/QGuard-Windows-1.12.30.msi",
+  "sha256": "063021225f6207ff68919e43c8bbb278a8943590434015136b2231ee67b0c7fd",
+  "size": 135021260,
+  "notes": "Device-based controls, clearer activity, installed-app selection, updated notices and an optional guided tour. Install the complete Windows package."
 }
