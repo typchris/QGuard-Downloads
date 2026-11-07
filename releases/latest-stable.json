@@ -1,10 +1,10 @@
 {
-  "version": "1.12.30",
+  "version": "1.12.31",
   "channel": "stable",
   "platform": "windows-x64",
   "installer": true,
-  "download_url": "https://github.com/typchris/QGuard-Downloads/releases/download/windows-v1.12.30/QGuard-Windows-1.12.30.msi",
-  "sha256": "063021225f6207ff68919e43c8bbb278a8943590434015136b2231ee67b0c7fd",
-  "size": 135021260,
-  "notes": "Device-based controls, clearer activity, installed-app selection, updated notices and an optional guided tour. Install the complete Windows package."
+  "download_url": "https://github.com/typchris/QGuard-Downloads/releases/download/windows-v1.12.31/QGuard-Windows-1.12.31.msi",
+  "sha256": "e5318bae4307f81bbcbb51d49d165e90603fa7e52675b7d9542152e99716423c",
+  "size": 135041740,
+  "notes": "Separate daily and family activity, independent report selection and refreshed website blocking. Install the complete Windows package."
 }
