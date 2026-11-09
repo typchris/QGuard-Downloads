@@ -1,10 +1,10 @@
 {
-  "version": "1.12.33",
+  "version": "1.12.34",
   "channel": "stable",
   "platform": "windows-x64",
   "installer": true,
-  "download_url": "https://github.com/typchris/QGuard-Downloads/releases/download/windows-v1.12.33/QGuard-Windows-1.12.33.msi",
-  "sha256": "d0caf47b46c77ec92ae6dc88eeea04a78c5aae186e1898f8c3823e9adc69f71f",
-  "size": 135111372,
-  "notes": "Fixed incorrect local Admin restrictions and improved automatic update checks. Install the complete Windows package."
+  "download_url": "https://github.com/typchris/QGuard-Downloads/releases/download/windows-v1.12.34/QGuard-Windows-1.12.34.msi",
+  "sha256": "96eb42e1585e518b83cf0a21a1be738eecabc01795d099c65d99f040fd8f3583",
+  "size": 135107276,
+  "notes": "Separate daily app limits, optional seven-day location history, and recovery of older saved files. Install the complete Windows package."
 }
