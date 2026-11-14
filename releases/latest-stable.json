@@ -1,10 +1,10 @@
 {
-  "version": "1.12.34",
+  "version": "1.12.35",
   "channel": "stable",
   "platform": "windows-x64",
   "installer": true,
-  "download_url": "https://github.com/typchris/QGuard-Downloads/releases/download/windows-v1.12.34/QGuard-Windows-1.12.34.msi",
-  "sha256": "96eb42e1585e518b83cf0a21a1be738eecabc01795d099c65d99f040fd8f3583",
-  "size": 135107276,
-  "notes": "Separate daily app limits, optional seven-day location history, and recovery of older saved files. Install the complete Windows package."
+  "download_url": "https://github.com/typchris/QGuard-Downloads/releases/download/windows-v1.12.35/QGuard-Windows-1.12.35.msi",
+  "sha256": "9011bc4b3d65e2b9ca188cd61bfd7661a14602644052b7a8da563ae5323b4fd4",
+  "size": 135119564,
+  "notes": "Cleaner location history with grouped nearby reports and a compact timeline. Improved app logos and friendly app names. Install the complete Windows package."
 }
